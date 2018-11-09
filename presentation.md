@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/23706925/48293363-add70f00-e44c-11e8-922b-0c77af21bd72.png" alt="EUPCS Club Logo" width="500" height="500">
+  <img src="https://user-images.githubusercontent.com/23706925/48293363-add70f00-e44c-11e8-922b-0c77af21bd72.png" alt="EUPCS Club Logo" width="200" height="200">
 </p>
 <br>
 
