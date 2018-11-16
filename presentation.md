@@ -72,4 +72,7 @@ Host a few projects that are representative of your ability as a developer.
 
 You should write proper documentation, starting with a nice Readme.md.
 
+`LICENSE` files should be included in repositories to make it easier for people
+to contribute.
+
 Find projects that you are interested in and get involved.
